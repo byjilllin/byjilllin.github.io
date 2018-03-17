@@ -11,14 +11,21 @@ paginate: 5
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 吴锦涛的官方网站
-tagline: 入则孝-出则悌-谨而信-泛爱众-而亲仁
+title : jilllin
+tagline: 知不如用，想不如做！
 author :
-  name : Jellon Wu
-  email : jellon.wu@gmail.com
-  github : cinowu
-  twitter : jellonwu
-  feedburner : jellonwu
+  name : jilllin
+  email : linjing7313@gmail.com
+  github : byjilllin
+  twitter : 
+  feedburner :
+  zhihu_username:     jilllin
+  jianshu_username:	31954e2026d3  
+  
+# Sidebar settings
+sidebar: true                           # 是否开启侧边栏.
+sidebar-about-description: "成功没有定律，但你可从失败中学到很多东西。"
+sidebar-avatar:/img/avatar-by.JPG      # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照片 img/avatar-m 或 avatar-g
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -28,7 +35,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://codewu.com
+production_url : http://jilllin.top
 #production_url : http://localhost:4000
 
 safe: false
@@ -99,11 +106,11 @@ JB :
     duoshuo :
       short_name : cino
     disqus :
-      short_name : cinowu
+      short_name : 
     livefyre :
-      site_id : 123
+      site_id : 
     intensedebate :
-      account : 123abc
+      account : 
     facebook :
       appid : 123
       num_posts: 5
@@ -117,9 +124,9 @@ JB :
   analytics :
     provider : baidu
     baidu : 
-        tracking_id : '21805b2218fc458ce3337418f5833404'
+        tracking_id : '549410a659fb6c31e34d224250ce475a'
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-115606855-1'
     getclicky :
       site_id : 
     mixpanel :
